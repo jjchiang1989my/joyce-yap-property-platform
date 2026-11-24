@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://joyce-yap-property-platform.jjchiang1989.workers.dev/sitemap.xml
